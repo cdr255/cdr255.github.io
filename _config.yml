@@ -1,0 +1,34 @@
+# Site settings
+title: Tumbling Owl
+description: "cdr255's personal blog"
+author:
+  name: Chris Rodriguez
+  email: cdr255@gmail.com
+  github: cdr255
+  twitter: cdr255
+  pinterest: cdr255
+  linkedin: cdr255
+  youtube: cdr255
+  tumblr: cdr255
+  bandcamp: cdr255
+  bio: Music, Games, Computers, and Life!
+  email_md5: c3ae791945f28dcd00a750cd558b37a9
+timezone: US/Eastern
+encoding: utf-8
+
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+highlighter: rouge
+future: false
+lsi: true
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+
+
+rss_path: feed.xml
+categories_path: categories/
+tags_path: tags/

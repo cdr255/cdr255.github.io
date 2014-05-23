@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tumbling Owl</title>
+    <description>cdr255&#39;s personal blog</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Jekyll and Hyde: Moving from Blogger to Jekyll</title>
+        <description>&lt;p&gt;I have been blogging and maintaining personal websites for years.&lt;/p&gt;
+
+&lt;p&gt;My most recent foray has been, largely, a success: I have had 8
+different blogs hosted by &lt;a href=&quot;http://www.blogger.com/&quot; title=&quot;Google&#39;s Blogging Service.&quot;&gt;Blogger&lt;/a&gt; over the last two
+years. However, the downsides to this are twofold.&lt;/p&gt;
+
+&lt;p&gt;First, and foremost: I have &lt;strong&gt;Eight&lt;/strong&gt; blogs. Content on all of them
+has been a trickle, mostly because I tend to focus on updating one or
+two of them instead of each one in succession. This balkanization of
+my blogging has been a big detrement to me for a while, so I recently
+decided that it might be smart to go down to one blog only… at least
+for a while.&lt;/p&gt;
+
+&lt;p&gt;Second… I write all of my posts using the markup language
+&lt;a href=&quot;kramdown.gettalong.org/&quot; title=&quot;My personal markup language of choice.&quot;&gt;kramdown&lt;/a&gt; (which is really a dialect of
+[markdown][md]). Blogger supports posts written in only two formats:
+HTML, and their own “Rich Text Editor.”&lt;/p&gt;
+
+&lt;p&gt;What this means for me is that I have to compile my posts on my own
+computer before uploading them to the web. So, why put up with some of
+the annoyances of &lt;a href=&quot;http://www.blogger.com/&quot; title=&quot;Google&#39;s Blogging Service.&quot;&gt;Blogger&lt;/a&gt; if I am doing static site
+generation anyway?&lt;/p&gt;
+
+&lt;p&gt;And so, I chose to move to &lt;a href=&quot;http://jekyllrb.com&quot; title=&quot;This whole site is rendered with Jekyll.&quot;&gt;Jekyll&lt;/a&gt;. It was quite a process,
+but that is a different post. I am very happy with it so far, and will
+update more on it as I begin to migrate everything over to it.&lt;/p&gt;
+
+&lt;p&gt;Hope it all goes smoothly from here on out.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Christopher&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Fri, 23 May 2014 08:50:55 -0400</pubDate>
+        <link>/jekyll/update/2014/05/23/Jekyll-and-Hyde/</link>
+        <guid isPermaLink="true">/jekyll/update/2014/05/23/Jekyll-and-Hyde/</guid>
+      </item>
+    
+      <item>
+        <title>Welcome to Jekyll!</title>
+        <description>&lt;p&gt;You’ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
+To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+
+&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
+&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;&#39;Tom&#39;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints &#39;Hi, Tom&#39; to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 23 May 2014 06:53:26 -0400</pubDate>
+        <link>/jekyll/update/2014/05/23/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">/jekyll/update/2014/05/23/welcome-to-jekyll/</guid>
+      </item>
+    
+  </channel>
+</rss>
