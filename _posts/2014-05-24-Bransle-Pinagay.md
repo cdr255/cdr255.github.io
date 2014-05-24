@@ -5,11 +5,11 @@ date:  2014-05-24 14:09:07
 categories: music
 tags: sheet_music saturday_renaissance bransle 16th_century orchesographie dance 
 ---
-![Bransle Pinagay in Modern Notation](/assets/sheetmusic/bransle-pinagay-m.png "Bransle Pinagay in Modern Notation. The first court dance I learned.")
+![Bransle Pinagay in Modern Notation](http://i.imgur.com/lw7zJru.png "Bransle Pinagay in Modern Notation. The first court dance I learned.")
 
-To hear what this sounds like, I have a MIDI file available [here](/assets/midi/bransle-pinagay.mid).
+To hear what this sounds like, I have a MIDI file available [here](/assets/midi/bransle-pinagay.midi).
 
-![Bransle Pinagay in Mensural Notation](/assets/sheetmusic/bransle-pinagay-e.png "Bransle Pinagay in Mensural Notation. The first court dance I learned.")
+![Bransle Pinagay in Mensural Notation](http://i.imgur.com/Kf4VNMX.png "Bransle Pinagay in Mensural Notation. The first court dance I learned.")
 
 To perform this dance, You need a line or a circle of dancers.
 
