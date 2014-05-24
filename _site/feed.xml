@@ -7,6 +7,40 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Saturday Renaissance #0001 - Bransle Pinagay</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/sheetmusic/bransle-pinagay-m.png&quot; alt=&quot;Bransle Pinagay in Modern Notation&quot; title=&quot;Bransle Pinagay in Modern Notation. The first court dance I learned.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To hear what this sounds like, I have a MIDI file available &lt;a href=&quot;/assets/midi/bransle-pinagay.mid&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/sheetmusic/bransle-pinagay-e.png&quot; alt=&quot;Bransle Pinagay in Mensural Notation&quot; title=&quot;Bransle Pinagay in Mensural Notation. The first court dance I learned.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;To perform this dance, You need a line or a circle of dancers.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Section A:  1  - 4    Double left,
+            5         Kick left.
+	        6  - 9    Double left,
+	        10 - 12   Kick left, right, left.
+
+Section B:  13 - 16   Double left,
+            17 - 20   Double right.
+			21 - 24   Double left,
+			25 - 28   Double right.
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;Here are the original pages from my 1596 version of &lt;strong&gt;Orchesographie&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/nzzBJVR.png&quot; alt=&quot;Orchesographie Page 151&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/dUluaLH.png&quot; alt=&quot;Orchesographie Page 152&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 May 2014 10:09:07 -0400</pubDate>
+        <link>/music/2014/05/24/Bransle-Pinagay/</link>
+        <guid isPermaLink="true">/music/2014/05/24/Bransle-Pinagay/</guid>
+      </item>
+    
+      <item>
         <title>Jekyll and Hyde: Moving from Blogger to Jekyll</title>
         <description>&lt;p&gt;I have been blogging and maintaining personal websites for years.&lt;/p&gt;
 
@@ -845,52 +879,6 @@ on each of these later.&lt;/p&gt;
         <pubDate>Mon, 24 Feb 2014 05:01:34 -0500</pubDate>
         <link>/preblog/fitness/lifestyle/2014/02/24/My-Version-of-Fitness/</link>
         <guid isPermaLink="true">/preblog/fitness/lifestyle/2014/02/24/My-Version-of-Fitness/</guid>
-      </item>
-    
-      <item>
-        <title>Stitchwich Manifesto</title>
-        <description>&lt;p&gt;&lt;strong&gt;Word Count: ~230, Estimated Reading Time: About 1 Minute, 9 Seconds.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;tl;dr:&lt;/strong&gt; &lt;em&gt;What this site is, and who I am.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/SnYQvat.png&quot;&gt;&lt;img src=&quot;http://i.imgur.com/SnYQvat.png&quot; alt=&quot;First Favicon Image, Big Version&quot; title=&quot;This is a shot of yarn, in an almost food-like
-composition. It shows the two necessities that
-this blog is focused on addressing at this time:
-Food and Clothing. Universal needs every human
-being has. Artist was Chris Rodriguez, CC-BY-SA
-4.0 like everything.&quot; class=&quot;displayleft&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;There are certain things univerally needed by human beings in order to
-live in this society. The two which came to my mind immediately were
-food and clothes. This blog is meant to help deal with those needs
-from a mostly DIY / low cost lifestyle perspective. On this blog, I
-intend to record:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Crochet Patterns I Use&lt;/li&gt;
-  &lt;li&gt;Recipes and Cooking Techniques I Use&lt;/li&gt;
-  &lt;li&gt;Other useful DIY Techniques I Use (especially those usable by most
-people without too much training)&lt;/li&gt;
-  &lt;li&gt;Shopping lists (and info about food) that I Use&lt;/li&gt;
-  &lt;li&gt;Maintenance techniques for various machines and items I Use &lt;/li&gt;
-  &lt;li&gt;My own personal reflections as I go through life from this
-perspective&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;I am moving out in a few weeks. Content will likely pick up then, as I
-will be running a household with two friends instead of living in
-someone else’s household. This blog is meant to simplify that
-transition for me.&lt;/p&gt;
-
-&lt;p&gt;Do it Yourself.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Christopher&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Sun, 23 Feb 2014 20:01:57 -0500</pubDate>
-        <link>/preblog/cooking/crocheting/stitchwich/2014/02/23/Stitchwich-Manifest/</link>
-        <guid isPermaLink="true">/preblog/cooking/crocheting/stitchwich/2014/02/23/Stitchwich-Manifest/</guid>
       </item>
     
   </channel>
