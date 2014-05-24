@@ -13,17 +13,15 @@ To hear what this sounds like, I have a MIDI file available [here](/assets/midi/
 
 To perform this dance, You need a line or a circle of dancers.
 
-    ====
     Section A:  1  - 4    Double left,
-	            5         Kick left.
-		        6  - 9    Double left,
-		        10 - 12   Kick left, right, left.
-    ====
+                5         Kick left.
+                6  - 9    Double left,
+                10 - 12   Kick left, right, left.
+                
     Section B:  13 - 16   Double left,
                 17 - 20   Double right.
-				21 - 24   Double left,
-				25 - 28   Double right.
-    ====
+                21 - 24   Double left,
+                25 - 28   Double right.
 
 Here are the original pages from my 1596 version of __Orchesographie__:
 
