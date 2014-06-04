@@ -7,6 +7,119 @@
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Resurgence of My Interest in (Game and Software) Development</title>
+        <description>&lt;p&gt;&lt;strong&gt;Word Count: ~346, Estimated Reading Time: About 1 Minutes, 44 Seconds.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;About 10 (or, wow, 13 now… I am getting &lt;em&gt;old&lt;/em&gt;) years ago, I stumbled
+upon &lt;a href=&quot;http://www.catb.org/esr/faqs/hacker-howto.html#skills1&quot;&gt;ESR’s guide&lt;/a&gt; on learning to “Become a Hacker.” That link
+goes to the relevant section for this post, but if You are interested
+in becoming active with Your computer I recommend reading the entire
+thing.&lt;/p&gt;
+
+&lt;p&gt;It is a good thing I did. It set me on the right path, though I have
+chosen a very interesting way to follow it so far… I started with
+&lt;strong&gt;C++&lt;/strong&gt; and, though I have learned a great many concepts I would not
+have learned otherwise, it could easily be argued that I could have
+learned so much more had I started with a language such as
+&lt;a href=&quot;http://learnpythonthehardway.org/book/&quot;&gt;Python&lt;/a&gt;. In fact, ESR himself says so, in that very article.&lt;/p&gt;
+
+&lt;p&gt;With my move mostly settled, I am able to (once again) renew my
+personal efforts in learning to design and implement programs. This
+article is meant to outline the various things I want to do; This is a
+sort of roadmap for my progress in this area. Of course, my own
+mileage may vary.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Learn to use &lt;a href=&quot;http://docs.oracle.com/javase/tutorial/java/&quot;&gt;Java&lt;/a&gt;, &lt;a href=&quot;http://learn.perl.org/&quot;&gt;Perl&lt;/a&gt;, &lt;a href=&quot;https://rubymonk.com/&quot;&gt;Ruby&lt;/a&gt; and
+&lt;a href=&quot;http://www.clisp.org/&quot;&gt;Lisp&lt;/a&gt; better.&lt;/p&gt;
+
+    &lt;p&gt;I have focussed far too much on &lt;a href=&quot;http://www.cplusplus.com/doc/tutorial/&quot;&gt;C++&lt;/a&gt;, &lt;a href=&quot;http://learnpythonthehardway.org/book/&quot;&gt;Python&lt;/a&gt;, and
+&lt;a href=&quot;http://www.htmldog.com/guides/html/&quot;&gt;HTML/CSS&lt;/a&gt; these past few years (but mostly C++) and so, first on
+my list is to shore up my weaknesses in other commonly used
+languages.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Learn more about &lt;strong&gt;constructing algorithms&lt;/strong&gt;, &lt;strong&gt;designing
+programs&lt;/strong&gt;, and &lt;strong&gt;implementing concepts&lt;/strong&gt; from a &lt;em&gt;language
+agnostic&lt;/em&gt; standpoint.&lt;/p&gt;
+
+    &lt;p&gt;Syntax is one thing, but the &lt;strong&gt;ideas&lt;/strong&gt; behind a lot of programs
+(and translating those ideas &lt;em&gt;into&lt;/em&gt; the syntax) is another, and a
+much more important one.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Complete&lt;/strong&gt; projects.&lt;/p&gt;
+
+    &lt;p&gt;No matter how small, insignigicant, or seemingly arbitrary, it is
+&lt;em&gt;vital&lt;/em&gt; to both my motivation and my progress to actually finish
+projects, instead of abandoning them halfway through.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;I will be posting on here a lot about the things I learn, in the hopes
+that doing so will further cement the information in my mind. Other
+than that, I should get coding.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Christopher&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Wed, 04 Jun 2014 09:33:16 -0400</pubDate>
+        <link>/programming/game_design/2014/06/04/Resurgence-of-interest-in-dev/</link>
+        <guid isPermaLink="true">/programming/game_design/2014/06/04/Resurgence-of-interest-in-dev/</guid>
+      </item>
+    
+      <item>
+        <title>Pokemon Blue Chesslocke #000 - Tortellini, Jalapeno, and Cinnamon</title>
+        <description>&lt;p&gt;&lt;strong&gt;Word Count: ~305, Estimated Reading Time: About 1 Minutes, 31 Seconds.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;So, I have decided to do a [Chesslocke][chesslocke] of Pokemon Blue.&lt;/p&gt;
+
+&lt;p&gt;Basically, this limits my run through of the game to catching only 16
+pokemon: 1 King (starter), 1 Queen, 2 Bishops, 2 Rooks, 2 Knights, and
+8 Pawns. The Rules for this Nuzlocke derivative would come into effect
+after &lt;strong&gt;I receive my 5 free Pokeballs from Professor Oak&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;I have been dubbed Jalaini (pronounced like ha-la-i-ni) by two of my
+friends, who suggested the words “Jalapeno” and “Tortillini” for
+character names. This makes my rival’s name “Torpeno”.&lt;/p&gt;
+
+&lt;p&gt;My trainer ID is &lt;strong&gt;47794&lt;/strong&gt;, which means (according to the optional rule I am
+using) my starter is the Fire type, Charmander. As a theme, all of my
+pokemon will be named after spices. I named my charmander after one of
+my favorites: “Cinnamon”.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cinnamon&lt;/strong&gt; defeated Torpeno’s Squirtle fairly handily, though the
+rules of the Challenge were not yet in effect. We easily made it to
+&lt;em&gt;Viridian City&lt;/em&gt; and back, to deliver Oak’s Parcel to him. In exchange,
+we recieved the high tech encyclopedia, &lt;strong&gt;Pokedex&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Excited and brave, we never ran from any pokemon who chose to
+challenge us during this time. On our way to scope out our goal,
+&lt;em&gt;Victory Road&lt;/em&gt;, we once again ran into our rival. However, Torpeno had
+caught himself a Pidgey.&lt;/p&gt;
+
+&lt;p&gt;Luckily, the rules of the challenge were still not quite in effect. We
+had quite a difficult time beating this doubly strong combo, thought
+we did eventually come out on top.&lt;/p&gt;
+
+&lt;p&gt;Then, being the responsible kid I am, I ran back to tell on him to his
+grandfather, Professor Oak.&lt;/p&gt;
+
+&lt;p&gt;He gave me 5 pokeballs for my troubles, and the full rules of the
+challenge came into effect. Cinnamon, now level 11, and I set out that
+very minute, ready for whatever kind of adventure would unfold.&lt;/p&gt;
+
+&lt;p&gt;[chesslocke]: http://nuzlocke.wikia.com/wiki/Chesslocke “”&lt;/p&gt;
+</description>
+        <pubDate>Wed, 28 May 2014 13:40:00 -0400</pubDate>
+        <link>/video_games/2014/05/28/Blue-Chesslocke-000-Introduction/</link>
+        <guid isPermaLink="true">/video_games/2014/05/28/Blue-Chesslocke-000-Introduction/</guid>
+      </item>
+    
+      <item>
         <title>Monday Multiplayer #0001 - Armagetron Advanced</title>
         <description>&lt;p&gt;&lt;strong&gt;Word Count: ~267, Estimated Reading Time: About 1 Minute, 20 Seconds.&lt;/strong&gt;&lt;/p&gt;
 
@@ -746,162 +859,6 @@ wonder how long it will take me to beat this?&lt;/p&gt;
         <pubDate>Fri, 28 Mar 2014 12:20:55 -0400</pubDate>
         <link>/video_games/computers/preblog/2014/03/28/Dragon-Breed-Is-Awesome/</link>
         <guid isPermaLink="true">/video_games/computers/preblog/2014/03/28/Dragon-Breed-Is-Awesome/</guid>
-      </item>
-    
-      <item>
-        <title>[Advance Wars II] Computer Tourney Set Up</title>
-        <description>&lt;p&gt;&lt;strong&gt;565 words. Estimated Reading Time: 2 Minutes, 50 Seconds.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;tl;dr:&lt;/strong&gt; &lt;em&gt;I’ve been playing Advance Wars II lately, and want to
-  share the way I set up my computer to play it.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/IPdq9at.jpg&quot;&gt;&lt;img src=&quot;http://i.imgur.com/IPdq9at.jpg&quot; alt=&quot;The Start of Our Battle&quot; title=&quot;My opponent was Collin; I was Sensei. They immediately attempted to
-flood the map with Mech and tank units, trying to etch out an early
-victory through the relative cheaper costs they have for
-units. I held firm, edging out my forces with a good amount of
-paratroopers, holding the line in the center of the map. Here, it
-could go either way.&quot; class=&quot;displayleft&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;So, last Saturday my Brother was in town and we played Advance Wars
-II.&lt;/p&gt;
-
-&lt;p&gt;I really like this game, as it is a fun, simple-to-grasp Turn Based
-Strategy game that allows hotseat play. The various characters You can
-choose from are interesting, and each one affords a different set of
-strategies than all of the others. Add to that the fact that it
-supports 4 players and has a built-in map editor, and it’s easy to see
-why it is one of my favorite games on the Gameboy Advance.&lt;/p&gt;
-
-&lt;p&gt;Here, though, I am not playing it on my Gameboy Advance… I am
-instead playing it on my computer, and on my Widescreen Television.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/VxLvxGJ.jpg&quot;&gt;&lt;img src=&quot;http://i.imgur.com/VxLvxGJ.jpg&quot; alt=&quot;The End of Our Battle&quot; title=&quot;I was able to hold the line long enough to set up some Missles to
-weaken their strong offensive force. They then started to bring in a
-few of their own long range units, but it was too late: as soon as
-they moved into range, I was able to fire on them, crippling their
-efficacy. From that point on, I only needed to slowly march forward,
-taking cities as I went to enhance my paratroopers landing range, and
-then take out all of their units. Victory was
-mine.&quot; class=&quot;displayright&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;I own a copy of the game, and was able to produce a ROM image of it
-for my own personal use. This, I loaded using
-&lt;a href=&quot;http://sourceforge.net/projects/vbam/&quot; title=&quot;This is a port of VisualBoy Advance which is a bit more featureful than stock... plus, it still has a homepage, unlike VBA itself.&quot;&gt;VisualBoy Advance&lt;/a&gt;, which is available for both Windows and
-GNU/Linux. I then was faced with a decision, because I wanted to have
-it ready that very night: How am I going to unlock more than the 4
-starting characters?&lt;/p&gt;
-
-&lt;p&gt;Well, I eventually came to the conclusion that I was going to use a
-code. See, while the game itself doesn’t have an ‘unlock everything’
-code, there existed for the GBA a few systems like the Game Genie
-which allowed people to alter the code of the game. One was Gameshark,
-the other was Codebreaker. (NB. I use these as the only examples
-because that is what VisualBoy Advance has support for.)&lt;/p&gt;
-
-&lt;p&gt;I decided to go with Codebreaker. Below are the Codebreaker codes to
-put in to unlock all characters and all costumes.&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;00009E1F 000A
-1006FD98 0007
-8202805A FFFF
-8202805C FFFF
-8202805E FFFF
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Just copy that and paste it into the emulator, and all of the COs are
-unlocked, allowing for tournament play that very same day.&lt;/p&gt;
-
-&lt;p&gt;The only remaining question then is: Who will win?&lt;/p&gt;
-
-&lt;p&gt;Let’s see.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Christopher&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        <pubDate>Mon, 24 Mar 2014 15:19:35 -0400</pubDate>
-        <link>/video_games/computers/preblog/2014/03/24/Advance-Wars-II-Computer-Tourney/</link>
-        <guid isPermaLink="true">/video_games/computers/preblog/2014/03/24/Advance-Wars-II-Computer-Tourney/</guid>
-      </item>
-    
-      <item>
-        <title>[Da Capo] Shirakawa Kotori&#39;s Route Reflection</title>
-        <description>&lt;p&gt;&lt;strong&gt;663 words. Estimated Reading Time: 3 Minutes, 18 Seconds.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;tl;dr:&lt;/strong&gt; &lt;em&gt;I just finished Kotori’s Route in Da Capo I!&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/gVZcn06.png&quot;&gt;&lt;img src=&quot;http://i.imgur.com/gVZcn06.png&quot; alt=&quot;The Starting Screen of Da Capo&quot; title=&quot;Da Capo is a great visual novel by the company Circus. It came out a
-while ago, and had a few pretty bad [IMHO] Anime adaptations, but it
-still hits me pretty close to home in terms of situation and
-emotions. The H Scenes seem kinda tacked on at times, though I have
-seen much worse. I personally give it an 8/10.&quot; class=&quot;displayleft&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;So, I just finished playing through Shirakawa Kotori’s route in &lt;em&gt;Da
-Capo&lt;/em&gt;. I had a good time, and though I was able to play through the
-whole thing in a little more than a day, I found a lot of the moments
-to be very memorable. This isn’t a spoiler blog, though, so I won’t go
-into too many specifics.&lt;/p&gt;
-
-&lt;p&gt;A major theme which carries through her entire route is the theme of
-&lt;em&gt;misunderstanding&lt;/em&gt;. Just about everyone, including You, misunderstands
-each other in this storyline… Even little things (Like talking on
-the telephone) are made into relatable and memorable events based on
-this motif. And dealing with that is a large part of the story, for
-better or for worse.&lt;/p&gt;
-
-&lt;p&gt;And, needless to say, there are a few ways to get the worser endings.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/ZrBCFwJ.png&quot;&gt;&lt;img src=&quot;http://i.imgur.com/ZrBCFwJ.png&quot; alt=&quot;Shirakawa Kotori&quot; title=&quot;Shirakawa Kotori is a very popular girl in our school, who suffers
-from having people expect a lot from her no matter what she is
-doing. Her story is well written, has a few good twists in it, and
-altogether was a nice and memorable experience.&quot; class=&quot;displayright&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Another theme present throughout Kotori’s route is being true to
-Yourself. This is exemplified in Your character’s choices in regards
-to family, friends, and even his own education. There is a lot of
-growing up to do along this storyline, and experiencing that again
-without feeling like the game is out of touch with reality was a
-joy. All in all, a very good experience.&lt;/p&gt;
-
-&lt;p&gt;Kotori herself reminds me of a few people I used to know. Perhaps that
-is why I find her to be so relatable… It is a very realistic set of
-emotions that she carries throughout the story, and she is able to
-present them in such a way that, given the circumstances, I can
-completely believe that these emotions are genuine.&lt;/p&gt;
-
-&lt;p&gt;And hey, she is introduced at the beginning of the game as a very
-popular person… which (though that is not exactly my case now) I can
-say from experience builds up a lot of superficial
-relationships. Superficial relationships are (spoiler alert) not very
-gratifying IRL or to You or Kotori.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://i.imgur.com/pbsc0ia.png&quot;&gt;&lt;img src=&quot;http://i.imgur.com/pbsc0ia.png&quot; alt=&quot;Shirakawa Kotori Ending&quot; title=&quot;I&#39;ve mentioned in the past that my favorite route in this game is
-Mako. However, this was a very enjoyable story for a few reasons: I
-could relate a lot with the emotions of the main character, especially
-in regard to misunderstanding my sigificant other. I liked how some of
-the most memorable moments in the game were sharing simple pleasures
-like ice cream or singing. And, in the end, I could relate a lot to
-Kotori and her issues communicating with people. Definitely not a weak
-route in this game.&quot; class=&quot;displayleft&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;All in all, I had quite a good time with this. There were only a few
-&lt;em&gt;Gotcha!&lt;/em&gt; moments in the choices, and because of this I can easily
-recommend Da Capo and Kotori’s route to those looking to do a “real
-life” playthrough of a Visual Novel. Anyone who had a middle or high
-school romance which survived (or died) due to communication and self
-discovery will enjoy this route. I certainly did. And in regard to how
-well is stacks up to Your expectations…&lt;/p&gt;
-
-&lt;p&gt;Let’s see.&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Christopher&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Fri, 21 Mar 2014 15:33:54 -0400</pubDate>
-        <link>/video_games/computers/preblog/visual_novels/2014/03/21/Da-Capo-Shirakawa-Kotori-Route-Reflection/</link>
-        <guid isPermaLink="true">/video_games/computers/preblog/visual_novels/2014/03/21/Da-Capo-Shirakawa-Kotori-Route-Reflection/</guid>
       </item>
     
   </channel>
